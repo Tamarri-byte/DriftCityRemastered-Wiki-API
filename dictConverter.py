@@ -1,3 +1,4 @@
+import json
 
 dict_speedPartsList = {}
 
@@ -16,6 +17,10 @@ def buildSpeedPartsDictionary():
         dict_speedPartsList[ps.speedPartlist[x].currPartName] = Part
     
     print(dict_speedPartsList)
+
+    with open("docs/parts/speedParts.json", 'w') as fp:
+        json.dump(dict_speedPartsList,fp)
+
 
 
 dict_accelPartsList = {}
