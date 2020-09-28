@@ -6,20 +6,21 @@ def buildSpeedPartsDictionary():
     import partScraper as ps
     for x in range(len(ps.speedPartlist)):
         Part = {
-            "name" : ps.speedPartlist[x].currPartName,
-            "type" : ps.speedPartlist[x].currPartType,
-            "level" : ps.speedPartlist[x].currPartLevel,
-            "price" : ps.speedPartlist[x].currPartPrice,
-            "base" : ps.speedPartlist[x].currPartBase,
-            "image" : ps.speedPartlist[x].currPartImage,
+            "name" : ps.speedPartlist[x].currPartName.strip(),
+            "type" : ps.speedPartlist[x].currPartType.strip(),
+            "level" : ps.speedPartlist[x].currPartLevel.strip(),
+            "price" : ps.speedPartlist[x].currPartPrice.strip(),
+            "base" : ps.speedPartlist[x].currPartBase.strip(),
+            "image" : ps.speedPartlist[x].currPartImage.strip(),
         }
 
-        dict_speedPartsList[ps.speedPartlist[x].currPartName] = Part
+        dict_speedPartsList[ps.speedPartlist[x].currPartName.strip()] = Part
     
     print(dict_speedPartsList)
 
     with open("docs/parts/speedParts.json", 'w') as fp:
-        json.dump(dict_speedPartsList,fp)
+        json.dump(dict_speedPartsList,fp,indent = 2,separators=(',', ':'))
+        
 
 
 
