@@ -1,0 +1,194 @@
+{
+  "partName":{
+    "name":"partName",
+    "type":"partType",
+    "level":"partLevel",
+    "price":"partPrice",
+    "base":"partBase",
+    "image":"partImage"
+  },
+  "Intro":{
+    "name":"Intro",
+    "type":"N",
+    "level":"1",
+    "price":"12 Mito",
+    "base":"1 ~ 3",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/3/39/1dura.png/revision/latest/scale-to-width-down/56?cb=20200811135840"
+  },
+  "Lily":{
+    "name":"Lily",
+    "type":"N",
+    "level":"7",
+    "price":"20 Mito",
+    "base":"4 ~ 6",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/55/7dura.png/revision/latest/scale-to-width-down/56?cb=20200811135855"
+  },
+  "Fire":{
+    "name":"Fire",
+    "type":"N",
+    "level":"13",
+    "price":"52 Mito",
+    "base":"7 ~ 9",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/c/c3/13dura.png/revision/latest/scale-to-width-down/56?cb=20200811135910"
+  },
+  "Kayla's Alpha Dura":{
+    "name":"Kayla's Alpha Dura",
+    "type":"S",
+    "level":"18",
+    "price":"1000 Mito",
+    "base":"11 ~ 15",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/d/db/Mpalphadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811135924"
+  },
+  "Sigma":{
+    "name":"Sigma",
+    "type":"N",
+    "level":"19",
+    "price":"100 Mito",
+    "base":"10 ~ 12",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/3/36/19dura.png/revision/latest/scale-to-width-down/56?cb=20200811135936"
+  },
+  "Diablo":{
+    "name":"Diablo",
+    "type":"N",
+    "level":"25",
+    "price":"162 Mito",
+    "base":"13 ~ 15",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/3/38/25dura.png/revision/latest/scale-to-width-down/51?cb=20200811135949"
+  },
+  "Hyeyoung's Alpha Dura":{
+    "name":"Hyeyoung's Alpha Dura",
+    "type":"S",
+    "level":"28",
+    "price":"???",
+    "base":"18 ~ 22",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/81/Koinalphadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140002"
+  },
+  "Intro6":{
+    "name":"Intro6",
+    "type":"S",
+    "level":"31",
+    "price":"240 Mito",
+    "base":"16 ~ 19",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/6/69/31dura.png/revision/latest/scale-to-width-down/54?cb=20200811140016"
+  },
+  "Sunflower":{
+    "name":"Sunflower",
+    "type":"S",
+    "level":"37",
+    "price":"332 Mito",
+    "base":"19 ~ 22",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/09/37dura.png/revision/latest/scale-to-width-down/54?cb=20200811140028"
+  },
+  "Duffy's Alpha Dura":{
+    "name":"Duffy's Alpha Dura",
+    "type":"S",
+    "level":"38",
+    "price":"???",
+    "base":"25 ~ 29",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/0b/Crasalphadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140044"
+  },
+  "Yuki's Beta Dura":{
+    "name":"Yuki's Beta Dura",
+    "type":"H",
+    "level":"42",
+    "price":"???",
+    "base":"28 ~ 35",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/89/Mpbetadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140058"
+  },
+  "Kraken":{
+    "name":"Kraken",
+    "type":"S",
+    "level":"43",
+    "price":"440 Mito",
+    "base":"22 ~ 25",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/7/74/43dura.png/revision/latest/scale-to-width-down/54?cb=20200811140113"
+  },
+  "Yahn's Alpha Dura":{
+    "name":"Yahn's Alpha Dura",
+    "type":"S",
+    "level":"48",
+    "price":"???",
+    "base":"32 ~ 36",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/21/Orosalphadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140128"
+  },
+  "Ogre":{
+    "name":"Ogre",
+    "type":"S",
+    "level":"49",
+    "price":"562 Mito",
+    "base":"25 ~ 28",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/e/eb/49dura.png/revision/latest/scale-to-width-down/54?cb=20200811140146"
+  },
+  "Erina's Beta Dura":{
+    "name":"Erina's Beta Dura",
+    "type":"H",
+    "level":"52",
+    "price":"???",
+    "base":"35 ~ 42",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/5d/Koinbetadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140200"
+  },
+  "Vampire":{
+    "name":"Vampire",
+    "type":"S",
+    "level":"55",
+    "price":"700 Mito",
+    "base":"28 ~ 31",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/b/bf/55dura.png/revision/latest/scale-to-width-down/51?cb=20200811140212"
+  },
+  "Outro":{
+    "name":"Outro",
+    "type":"H",
+    "level":"60",
+    "price":"852 Mito",
+    "base":"31 ~ 34",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/59/60dura.png/revision/latest/scale-to-width-down/61?cb=20200811140224"
+  },
+  "Mr. H's Beta Dura":{
+    "name":"Mr. H's Beta Dura",
+    "type":"H",
+    "level":"62",
+    "price":"???",
+    "base":"42 ~ 49",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/d/de/Crasbetadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140239"
+  },
+  "Lotus":{
+    "name":"Lotus",
+    "type":"H",
+    "level":"65",
+    "price":"1020 Mito",
+    "base":"34 ~ 37",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/5d/65dura.png/revision/latest/scale-to-width-down/61?cb=20200811140252"
+  },
+  "Templar":{
+    "name":"Templar",
+    "type":"H",
+    "level":"70",
+    "price":"1202 Mito",
+    "base":"37 ~ 40",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/24/70dura.png/revision/latest/scale-to-width-down/62?cb=20200811140306"
+  },
+  "Branton's Beta Dura":{
+    "name":"Branton's Beta Dura",
+    "type":"H",
+    "level":"72",
+    "price":"???",
+    "base":"49 ~ 56",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/55/Orosbetadura.jpg/revision/latest/scale-to-width-down/64?cb=20200811140322"
+  },
+  "Saver":{
+    "name":"Saver",
+    "type":"H",
+    "level":"75",
+    "price":"1400 Mito",
+    "base":"40 ~ 43",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/a/a5/75dura.png/revision/latest/scale-to-width-down/63?cb=20200811140337"
+  },
+  "Mittren":{
+    "name":"Mittren",
+    "type":"H",
+    "level":"80",
+    "price":"1687 Mito",
+    "base":"45 ~ 48",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/a/a5/80dura.png/revision/latest/scale-to-width-down/63?cb=20200811140350"
+  }
+}

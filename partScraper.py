@@ -543,3 +543,6 @@ for boostOptionItem in boostOption_table.find_all('tbody'):
 
 import dictConverter
 dictConverter.buildSpeedPartsDictionary()
+dictConverter.buildAccelPartsDictionary()
+dictConverter.buildDuraPartsDictionary()
+dictConverter.buildBoostPartsDictionary()

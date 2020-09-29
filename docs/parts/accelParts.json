@@ -1,0 +1,194 @@
+{
+  "partName":{
+    "name":"partName",
+    "type":"partType",
+    "level":"partLevel",
+    "price":"partPrice",
+    "base":"partBase",
+    "image":"partImage"
+  },
+  "Bfemil":{
+    "name":"Bfemil",
+    "type":"N",
+    "level":"1",
+    "price":"12 Mito",
+    "base":"1 ~ 3",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/58/1accel.png/revision/latest/scale-to-width-down/60?cb=20200811134718"
+  },
+  "FBA":{
+    "name":"FBA",
+    "type":"N",
+    "level":"7",
+    "price":"20 Mito",
+    "base":"4 ~ 6",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/04/7accel.png/revision/latest/scale-to-width-down/60?cb=20200811134736"
+  },
+  "Corsair":{
+    "name":"Corsair",
+    "type":"N",
+    "level":"13",
+    "price":"52 Mito",
+    "base":"7 ~ 9",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/5a/13accel.png/revision/latest/scale-to-width-down/62?cb=20200811134821"
+  },
+  "Kayla's Alpha Accel":{
+    "name":"Kayla's Alpha Accel",
+    "type":"S",
+    "level":"18",
+    "price":"???",
+    "base":"11 ~ 15",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/b/b4/Mpalphaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811134843"
+  },
+  "Schwalbe":{
+    "name":"Schwalbe",
+    "type":"N",
+    "level":"19",
+    "price":"100 Mito",
+    "base":"10 ~ 12",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/d/d3/19accel.png/revision/latest/scale-to-width-down/61?cb=20200811134900"
+  },
+  "Shinden":{
+    "name":"Shinden",
+    "type":"N",
+    "level":"25",
+    "price":"162 Mito",
+    "base":"13 ~ 15",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/6/69/25accel.png/revision/latest/scale-to-width-down/61?cb=20200811134918"
+  },
+  "Hyeyoung's Alpha Accel":{
+    "name":"Hyeyoung's Alpha Accel",
+    "type":"S",
+    "level":"28",
+    "price":"???",
+    "base":"18 ~ 22",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/c/c7/Koinalphaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811134933"
+  },
+  "Phantom":{
+    "name":"Phantom",
+    "type":"S",
+    "level":"31",
+    "price":"240 Mito",
+    "base":"16 ~ 19",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/58/31accel.png/revision/latest/scale-to-width-down/62?cb=20200811134949"
+  },
+  "Fishbad":{
+    "name":"Fishbad",
+    "type":"S",
+    "level":"37",
+    "price":"332 Mito",
+    "base":"19 ~ 22",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/6/61/37accel.png/revision/latest/scale-to-width-down/60?cb=20200811135006"
+  },
+  "Duffy's Alpha Accel":{
+    "name":"Duffy's Alpha Accel",
+    "type":"S",
+    "level":"38",
+    "price":"???",
+    "base":"25 ~ 29",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/3/3d/Crasalphaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135026"
+  },
+  "Yuki's Beta Accel":{
+    "name":"Yuki's Beta Accel",
+    "type":"H",
+    "level":"42",
+    "price":"???",
+    "base":"28 ~ 35",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/00/Mpbetaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135042"
+  },
+  "Falcon":{
+    "name":"Falcon",
+    "type":"S",
+    "level":"43",
+    "price":"440 Mito",
+    "base":"22 ~ 25",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/4/4b/43accel.png/revision/latest/scale-to-width-down/62?cb=20200811135057"
+  },
+  "Yahn's Alpha Accel":{
+    "name":"Yahn's Alpha Accel",
+    "type":"S",
+    "level":"48",
+    "price":"???",
+    "base":"32 ~ 36",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/2b/Orosalphaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135110"
+  },
+  "Raptor":{
+    "name":"Raptor",
+    "type":"S",
+    "level":"49",
+    "price":"562 Mito",
+    "base":"25 ~ 28",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/d/d5/49accel.png/revision/latest/scale-to-width-down/62?cb=20200811135128"
+  },
+  "Erina's Beta Accel":{
+    "name":"Erina's Beta Accel",
+    "type":"H",
+    "level":"52",
+    "price":"???",
+    "base":"35 ~ 42",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/8e/Koinbetaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135141"
+  },
+  "Tomcat":{
+    "name":"Tomcat",
+    "type":"S",
+    "level":"55",
+    "price":"700 Mito",
+    "base":"28 ~ 31",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/f4/55accel.png/revision/latest/scale-to-width-down/61?cb=20200811135153"
+  },
+  "Gold Eagle":{
+    "name":"Gold Eagle",
+    "type":"H",
+    "level":"60",
+    "price":"852 Mito",
+    "base":"31 ~ 34",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/6/6b/60accel.png/revision/latest/scale-to-width-down/62?cb=20200811135207"
+  },
+  "Mr. H's Beta Accel":{
+    "name":"Mr. H's Beta Accel",
+    "type":"H",
+    "level":"62",
+    "price":"???",
+    "base":"42 ~ 49",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/fd/Crasbetaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135222"
+  },
+  "T-bolt":{
+    "name":"T-bolt",
+    "type":"H",
+    "level":"65",
+    "price":"1020 Mito",
+    "base":"34 ~ 37",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/4/41/65accel.png/revision/latest/scale-to-width-down/62?cb=20200811135236"
+  },
+  "Gargoyle":{
+    "name":"Gargoyle",
+    "type":"H",
+    "level":"70",
+    "price":"1202 Mito",
+    "base":"37 ~ 40",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/c/c5/70accel.png/revision/latest/scale-to-width-down/62?cb=20200811135249"
+  },
+  "Branton's Beta Accel":{
+    "name":"Branton's Beta Accel",
+    "type":"H",
+    "level":"72",
+    "price":"???",
+    "base":"49 ~ 56",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/9/94/Orosbetaaccel.jpg/revision/latest/scale-to-width-down/64?cb=20200811135303"
+  },
+  "Tina":{
+    "name":"Tina",
+    "type":"H",
+    "level":"75",
+    "price":"1400 Mito",
+    "base":"40 ~ 43",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/fc/75accel.png/revision/latest/scale-to-width-down/61?cb=20200811135315"
+  },
+  "Goldwing":{
+    "name":"Goldwing",
+    "type":"H",
+    "level":"80",
+    "price":"1687 Mito",
+    "base":"45 ~ 48",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/ff/80accel.png/revision/latest/scale-to-width-down/61?cb=20200811135329"
+  }
+}

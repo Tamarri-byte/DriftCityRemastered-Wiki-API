@@ -1,0 +1,194 @@
+{
+  "partName":{
+    "name":"partName",
+    "type":"partType",
+    "level":"partLevel",
+    "price":"partPrice",
+    "base":"partBase",
+    "image":"partImage"
+  },
+  "Chorus":{
+    "name":"Chorus",
+    "type":"N",
+    "level":"1",
+    "price":"12 Mito",
+    "base":"1 ~ 3",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/e/e6/1boost.png/revision/latest/scale-to-width-down/56?cb=20200811130728"
+  },
+  "Mega":{
+    "name":"Mega",
+    "type":"N",
+    "level":"7",
+    "price":"20 Mito",
+    "base":"4 ~ 6",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/f4/7boost.png/revision/latest/scale-to-width-down/56?cb=20200811130702"
+  },
+  "Expander":{
+    "name":"Expander",
+    "type":"N",
+    "level":"13",
+    "price":"52 Mito",
+    "base":"7 ~ 9",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/c/c3/13boost.png/revision/latest/scale-to-width-down/63?cb=20200811130646"
+  },
+  "Kayla's Alpha Boost":{
+    "name":"Kayla's Alpha Boost",
+    "type":"S",
+    "level":"18",
+    "price":"500 Mito",
+    "base":"13 ~ 17",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/21/Mpalphaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131612"
+  },
+  "Crescendo":{
+    "name":"Crescendo",
+    "type":"N",
+    "level":"19",
+    "price":"100 Mito",
+    "base":"10 ~ 12",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/81/19boost.png/revision/latest/scale-to-width-down/62?cb=20200811130631"
+  },
+  "Gravity":{
+    "name":"Gravity",
+    "type":"N",
+    "level":"25",
+    "price":"162 Mito",
+    "base":"13 ~ 15",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/4/45/25boost.png/revision/latest/scale-to-width-down/62?cb=20200811130618"
+  },
+  "Hyeyoung's Alpha Boost":{
+    "name":"Hyeyoung's Alpha Boost",
+    "type":"S",
+    "level":"28",
+    "price":"???",
+    "base":"20 ~ 24",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/f/f8/Koinalphaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131635"
+  },
+  "Forte":{
+    "name":"Forte",
+    "type":"S",
+    "level":"31",
+    "price":"240 Mito",
+    "base":"16 ~ 19",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/23/31boost.png/revision/latest/scale-to-width-down/60?cb=20200811130603"
+  },
+  "Giga":{
+    "name":"Giga",
+    "type":"S",
+    "level":"37",
+    "price":"332 Mito",
+    "base":"19 ~ 22",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/a/a2/37boost.png/revision/latest/scale-to-width-down/61?cb=20200811130548"
+  },
+  "Duffy's Alpha Boost":{
+    "name":"Duffy's Alpha Boost",
+    "type":"S",
+    "level":"38",
+    "price":"???",
+    "base":"27 ~ 31",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/9/97/Crasalphaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131652"
+  },
+  "Yuki's Beta Boost":{
+    "name":"Yuki's Beta Boost",
+    "type":"H",
+    "level":"42",
+    "price":"???",
+    "base":"32 ~ 39",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/a/a5/Mpbetaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131707"
+  },
+  "T10":{
+    "name":"T10",
+    "type":"S",
+    "level":"43",
+    "price":"440 Mito",
+    "base":"22 ~ 25",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/7/75/43boost.png/revision/latest/scale-to-width-down/58?cb=20200811130528"
+  },
+  "Yahn's Alpha Boost":{
+    "name":"Yahn's Alpha Boost",
+    "type":"S",
+    "level":"48",
+    "price":"???",
+    "base":"34 ~ 38",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/7/74/Orosalphaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131721"
+  },
+  "Decrescendo":{
+    "name":"Decrescendo",
+    "type":"S",
+    "level":"49",
+    "price":"562 Mito",
+    "base":"25 ~ 28",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/6/61/49boost.png/revision/latest/scale-to-width-down/58?cb=20200811130509"
+  },
+  "Erina's Beta Boost":{
+    "name":"Erina's Beta Boost",
+    "type":"H",
+    "level":"52",
+    "price":"???",
+    "base":"39 ~ 46",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/2/2a/Koinbetaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131739"
+  },
+  "Ion":{
+    "name":"Ion",
+    "type":"S",
+    "level":"55",
+    "price":"700 Mito",
+    "base":"28 ~ 31",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/04/55boost.png/revision/latest/scale-to-width-down/62?cb=20200811130454"
+  },
+  "Distortion":{
+    "name":"Distortion",
+    "type":"H",
+    "level":"60",
+    "price":"852 Mito",
+    "base":"31 ~ 34",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/58/60boost.png/revision/latest/scale-to-width-down/63?cb=20200811130350"
+  },
+  "Mr. H's Beta Boost":{
+    "name":"Mr. H's Beta Boost",
+    "type":"H",
+    "level":"62",
+    "price":"???",
+    "base":"46 ~ 53",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/a/ac/Crasbetaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131757"
+  },
+  "Terra":{
+    "name":"Terra",
+    "type":"H",
+    "level":"65",
+    "price":"1020 Mito",
+    "base":"34 ~ 37",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/0/03/65boost.png/revision/latest/scale-to-width-down/61?cb=20200811130328"
+  },
+  "OverDrive":{
+    "name":"OverDrive",
+    "type":"H",
+    "level":"70",
+    "price":"1202 Mito",
+    "base":"37 ~ 40",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/83/70boost.png/revision/latest/scale-to-width-down/63?cb=20200811130309"
+  },
+  "Branton's Beta Boost":{
+    "name":"Branton's Beta Boost",
+    "type":"H",
+    "level":"72",
+    "price":"???",
+    "base":"53 ~ 60",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/5/5d/Orosbetaboost.jpg/revision/latest/scale-to-width-down/64?cb=20200811131813"
+  },
+  "Diminuendo":{
+    "name":"Diminuendo",
+    "type":"H",
+    "level":"75",
+    "price":"1400 Mito",
+    "base":"40 ~ 43",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/9/99/75boost.png/revision/latest/scale-to-width-down/63?cb=20200811130249"
+  },
+  "Plasma":{
+    "name":"Plasma",
+    "type":"H",
+    "level":"80",
+    "price":"1687 Mito",
+    "base":"45 ~ 48",
+    "image":"https://static.wikia.nocookie.net/drift-city-remastered/images/8/88/80boost.png/revision/latest/scale-to-width-down/63?cb=20200811130213"
+  }
+}
